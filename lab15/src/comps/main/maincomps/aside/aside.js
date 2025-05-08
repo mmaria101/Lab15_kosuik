@@ -3,7 +3,7 @@ import './aside.css';
 function Aside() {
   return (
     <div className="aside">
-    <p>Косюк Мария Алексеевна</p>
+    <p>Косюк М.А.</p>
 
     </div>
   );
